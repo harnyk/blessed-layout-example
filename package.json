@@ -1,0 +1,16 @@
+{
+  "name": "blessed-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx app.ts"
+  },
+  "dependencies": {
+    "@types/blessed": "^0.1.25",
+    "blessed": "^0.1.81",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.2"
+  }
+}
